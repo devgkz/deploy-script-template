@@ -1,0 +1,4 @@
+composer.phar
+deployer.phar
+nbproject
+/vendor/
