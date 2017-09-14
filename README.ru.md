@@ -38,7 +38,8 @@ dep deploy staging
 - `shared` — директория, в которой находятся все "общие" файлы, относящиеся ко всем релизам одновременно (загруженные файлы, локальная конфигурация). 
 
 
-## Open Source
+## New BSD License
 
 Copyright (c) 2017 Евгений Дементьев.
+
 BSD 3-clause License (https://opensource.org/licenses/BSD-3-Clause).
